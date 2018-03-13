@@ -1,7 +1,0 @@
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\bin\Debug\C-SharpBasics.exe.config
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\bin\Debug\C-SharpBasics.exe
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\bin\Debug\C-SharpBasics.pdb
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\obj\Debug\C-SharpBasics.csprojResolveAssemblyReference.cache
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\obj\Debug\C-SharpBasics.csproj.CoreCompileInputs.cache
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\obj\Debug\C-SharpBasics.exe
-C:\Users\Colin\source\repos\C-SharpBasics\C-SharpBasics\obj\Debug\C-SharpBasics.pdb
