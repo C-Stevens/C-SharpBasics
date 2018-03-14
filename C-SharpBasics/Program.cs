@@ -93,7 +93,7 @@ namespace C_SharpBasics
 
             Console.WriteLine("{0} {1}", greeting, name);
 
-                Console.ReadKey(); // Prevent console window from auto closing.
+            Console.ReadKey(); // Prevent console window from auto closing.
         }
     }
 }
